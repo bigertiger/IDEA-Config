@@ -4,9 +4,17 @@
       <entry shortcut="Backspace" count="10" />
       <entry shortcut="Ctrl+Alt+S" count="1" />
       <entry shortcut="Ctrl+C" count="1" />
-      <entry shortcut="Ctrl+Shift+F10" count="1" />
+      <entry shortcut="Ctrl+D" count="5" />
+      <entry shortcut="Ctrl+S" count="5" />
+      <entry shortcut="Ctrl+Shift+Down" count="7" />
+      <entry shortcut="Ctrl+Shift+F10" count="2" />
+      <entry shortcut="Ctrl+Shift+Slash" count="1" />
+      <entry shortcut="Ctrl+Shift+Up" count="4" />
       <entry shortcut="Ctrl+V" count="5" />
-      <entry shortcut="Enter" count="2" />
+      <entry shortcut="Ctrl+X" count="7" />
+      <entry shortcut="Ctrl+Z" count="3" />
+      <entry shortcut="Enter" count="5" />
+      <entry shortcut="Up" count="5" />
     </counts>
   </component>
 </application>
