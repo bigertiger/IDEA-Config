@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="EditorBackSpace" count="10" />
+      <entry action="EditorChooseLookupItem" count="1" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorEnter" count="1" />
+      <entry action="EditorPaste" count="5" />
+      <entry action="ExportSettings" count="1" />
+      <entry action="ImportSettings" count="2" />
+      <entry action="RunClass" count="1" />
+      <entry action="ShowSettings" count="1" />
+    </counts>
+  </component>
+</application>

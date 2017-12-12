@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="497" y="27" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="717" y="271" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="329" y="194" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="412" y="239" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="625" />
+    <location key="WELCOME_SCREEN.0.0.1366.768@120dpi" x="680" y="390" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768@120dpi" x="264" y="158" />
+    <location key="SettingsEditor.0.0.1366.768@120dpi" x="40" y="0" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768@120dpi" x="359" y="181" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="120" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768@120dpi" width="1310" height="400" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768@120dpi" width="1310" height="400" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768@120dpi" width="1310" height="400" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768@120dpi" width="1310" height="400" />
+  </component>
+</application>
