@@ -1,7 +1,24 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="2" />
+      <entry action="Run@NavBarToolbar" count="20" />
+      <entry action="Stop@NavBarToolbar" count="15" />
+      <entry action="Stop@RunnerToolbar" count="8" />
+      <entry action="UML.ZoomIn@Diagrams" count="9" />
+      <entry action="UML.ZoomOut@Diagrams" count="2" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="4" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="4" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="1" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
+      <entry action="com.intellij.ide.structureView.newStructureView.TreeActionWrapper@StructureViewToolbar" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="6" />
+      <entry action="com.intellij.uml.core.actions.visibility.UmlVisibilityActionGroup@Diagrams" count="1" />
     </counts>
   </component>
 </application>

@@ -5,14 +5,34 @@
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="329" y="194" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="412" y="239" />
     <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="625" />
-    <location key="WELCOME_SCREEN.0.0.1366.768@120dpi" x="680" y="390" />
+    <location key="WELCOME_SCREEN.0.0.1366.768@120dpi" x="674" y="356" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768@120dpi" x="264" y="158" />
     <location key="SettingsEditor.0.0.1366.768@120dpi" x="40" y="0" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768@120dpi" x="359" y="181" />
+    <location key="new project wizard.0.0.1366.768@120dpi" x="315" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1366.768@120dpi" x="416" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768@120dpi" x="140" y="0" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768@120dpi" x="230" y="0" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768@120dpi" x="163" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768@120dpi" x="475" y="225" />
+    <location key="find.popup.0.0.1366.768@120dpi" x="318" y="0" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768@120dpi" x="444" y="6" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768@120dpi" x="450" y="138" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1366.768@120dpi" x="350" y="102" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768@120dpi" x="350" y="72" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768@120dpi" x="278" y="0" />
+    <location key="#Inspections.0.0.1366.768@120dpi" x="312" y="41" />
+    <location key="#Project_Structure.0.0.1366.768@120dpi" x="35" y="0" />
+    <location key="spring file set editor.0.0.1366.768@120dpi" x="297" y="7" />
+    <location key="StructurePopup.0.0.1366.768@120dpi" x="319" y="173" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="120" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768@120dpi" width="1310" height="400" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768@120dpi" width="1310" height="400" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768@120dpi" width="1310" height="400" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768@120dpi" width="1310" height="400" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768@120dpi" width="1310" height="247" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768@120dpi" width="1310" height="247" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768@120dpi" width="1310" height="247" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768@120dpi" width="1310" height="247" />
+    <size key="find.popup.0.0.1366.768@120dpi" width="1015" height="738" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768@120dpi" width="1096" height="738" />
+    <size key="javadoc.popup.0.0.1366.768@120dpi" width="752" height="531" />
+    <size key="StructurePopup.0.0.1366.768@120dpi" width="712" height="376" />
   </component>
 </application>

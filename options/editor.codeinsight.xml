@@ -3,4 +3,5 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default new" />
 </application>

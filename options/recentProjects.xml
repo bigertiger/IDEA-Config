@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="G:/Idea/maven_test" />
+        <option value="G:/bos" />
       </list>
     </option>
     <option name="openPaths">
@@ -11,7 +12,7 @@
       </list>
     </option>
     <option name="lastPath" value="G:/Idea/maven_test" />
-    <option name="pid" value="10772" />
+    <option name="pid" value="25032" />
     <option name="additionalInfo">
       <map>
         <entry key="G:/Idea/maven_test">
@@ -20,8 +21,19 @@
               <option name="build" value="IU-173.3727.127" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1513089555112" />
-              <option name="buildTimestamp" value="1511788739753" />
+              <option name="projectOpenTimestamp" value="1514625660943" />
+              <option name="buildTimestamp" value="1511788703146" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/bos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3727.127" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514375650585" />
+              <option name="buildTimestamp" value="1511788701229" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

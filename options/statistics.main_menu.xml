@@ -3,6 +3,9 @@
     <counts>
       <entry path="File -&gt; Export Settings..." count="1" />
       <entry path="File -&gt; Import Settings..." count="2" />
+      <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="9" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="1" />
+      <entry path="File -&gt; Project Structure..." count="2" />
     </counts>
   </component>
 </application>

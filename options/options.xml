@@ -1,13 +1,35 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
-    <property name="android-component-compatibility-check" value="1513062121625" />
-    <property name="file.chooser.recent.files" value="G:/settings.jar&#10;G:/Idea/maven_test" />
+    <property name="android-component-compatibility-check" value="1514205755060" />
+    <property name="file.chooser.recent.files" value="G:/bos/my_BOS/bos_management&#10;G:/bos/my_BOS/crm_management/pom.xml&#10;G:/bos/my_BOS/crm_domain/pom.xml&#10;G:/bos/my_BOS/bos_sms/pom.xml&#10;G:/bos/my_BOS/bos_fore/pom.xml&#10;G:/bos/my_BOS/bos_domain/pom.xml&#10;G:/bos/my_BOS/bos_management/pom.xml&#10;G:/bos/my_BOS/common_parent/pom.xml&#10;D:/develop/java8/jdk1.8.0_151&#10;G:/bos&#10;G:/settings.jar&#10;G:/Idea/maven_test" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="file.gist.reindex.count" value="1" />
+    <property name="file.gist.reindex.count" value="765" />
     <property name="ts.lib.d.ts.version" value="2.6.1" />
-    <property name="lastTip" value="2" />
-    <property name="selected.color.option.type" value="HTML_TAG_TREE_LEVEL4" />
-    <property name="ColorChooser.RecentColors" value="205-231-204-255" />
+    <property name="lastTip" value="15" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="ColorChooser.RecentColors" value="205-231-204-255,,,199-237-204-255,,,199-238-204-255" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="last.imported.location" value="G:/bos/my_BOS/crm_management/pom.xml" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="KEYMAP" value="intent&#10;init" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.15698586" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.15698586" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15698586" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="SpringBeansModulesPanel[1]" value="0.18621974" />
+    <property name="SpringBeansModulesPanel[2]" value="0.22909507" />
+    <property name="SpringBeansModulesPanel[3]" value="0.29761904" />
+    <property name="SearchEveryWhereHistory" value="" />
+    <property name="search.everywhere.max.popup.width" value="770" />
   </component>
 </application>
